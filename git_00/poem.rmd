@@ -1,0 +1,92 @@
+---
+title: "git_00"
+author: "Nalleli Tapia"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+A boat beneath a sunny sky,  
+Lingering onward dreamily  
+In an evening of July --  
+Children three that nestle near,  
+Eager eye and willing ear,  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+The sea was wet as wet could be,  
+The sands were dry as dry.  
+You could not see a cloud, because  
+No cloud was in the sky:  
+No birds were flying overhead--  
+There were no birds to fly.  
+
+The Walrus and the Carpenter  
+Were walking close at hand;  
+They wept like anything to see  
+Such quantities of sand:  
+"If this were only cleared away,"  
+They said, "it would be grand!"  
+
+"If seven maids with seven mops  
+Swept it for half a year.  
+Do you suppose," the Walrus said,  
+"That they could get it clear?"  
+"I doubt it," said the Carpenter,  
+And shed a bitter tear.  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+When you're away from me  
+I long for you...  
+in the center of my soul.  
+I yearn to see  
+the affection in your eyes...  
+blue depths of love for me.  
+I cave of comfort, ease and peace.  
+My body aches with hunger for you...  
+the exquisite toture  
+of delayed ecstasy,  
+coming soon, coming soon.  
+I long for you, I yearn for you,  
+I ache for you...  
+Please, bring all that I crave  
+in your incomparable self.  
+Come to me. Come to me.  
+By Joanna Fuchs  
